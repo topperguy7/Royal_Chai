@@ -23,4 +23,4 @@ Deployment:
 3.  Minimalism: The layout is intentionally spacious to keep the focus on the product's premium nature and the primary "Notify Me" goal.
 
 ## 🚀 Output
-To see the the Designed Website press on this link
+To see the the Designed Website click on this link
