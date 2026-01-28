@@ -8,7 +8,7 @@ Royal Chai is a luxury premix brand inspired by the tea traditions of Indian roy
 ## ✨ Features 
 Elegant Visuals: Gold-accented UI with high-contrast serif typography.
 Fully Responsive: Optimized for mobile, tablet, and desktop viewing.
-Interactive Signup: A functional email subscription form with success state feedback.
+Interactive Signup: A functional email form with success state feedback.
 Clean Code: Written using semantic HTML5 and modern CSS3/JavaScript.
 Brand Continuity: Includes social media integration and a clear "Launching Soon" call-to-action.
 
